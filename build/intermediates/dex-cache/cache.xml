@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Drinkometer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_31c8710fa6ec2fd2631544941b23747b5a7f40fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viacheslav_Ivanov\.android\build-cache\94eb3edaa8db524bc6266ad59d9e16a142e0f40a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\pre-dexed\debug\classes_dd8f14cfdaccb2b3b341555379b385a9c6972615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viacheslav_Ivanov\.android\build-cache\757004bf3c126101177402db4ae5dbc86f37db4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\pre-dexed\debug\classes_8988a0c55155bac2bf7a6fbfa96e6010cfdea63a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_8b5cf2424ddb4d3255fd5b504bc061c33490ae78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viacheslav_Ivanov\.android\build-cache\c8686fe4868f34f76638c54329e4075e4aa30c6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\pre-dexed\debug\classes_4ed4e43ef49e9139981e03d3bd259740b8e62d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viacheslav_Ivanov\.android\build-cache\e8e2afcd3c0917ad9122cb95653646c8c7b22bc9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\pre-dexed\debug\classes_115be3d3fd08bc9805a674d58d68b047cff1420e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viacheslav_Ivanov\.android\build-cache\973a69c149a3783a64af33de453e3ef8277c334f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\pre-dexed\debug\classes_4c84c8d24f5aa738a6fd26b7651ab8274cf233c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viacheslav_Ivanov\.android\build-cache\4c03ad3c96c79f332f6976d2b23a236a896df75c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\pre-dexed\debug\classes_ed37ab944a77f9dd6945313da0e97f0dfc236353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viacheslav_Ivanov\.android\build-cache\c11a2a9100f2ccb2bb8655f8b86e1f7fcbf9af0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\pre-dexed\debug\classes_86ddad53dfa09c99f26e07f4021f12301cbc51b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viacheslav_Ivanov\.android\build-cache\e1e1fc0e9c97a54461996fd96c57287fbae5e9ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\pre-dexed\debug\classes_fe7854e36c8cc55091f38c041c73272420bb78a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viacheslav_Ivanov\.android\build-cache\c0bd98c853df555ad9284567463672db69fe8e6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\pre-dexed\debug\classes_476d851909872cc2ae0cd70eaa63519d63953828.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d573760ead3216a5cc2d1e922f713bd8454b87f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\Drinkometer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0f9947c53a60f0111f57444d479988e81f277fec">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_89931368392ad3c8e00ca6d4192317970a0a2625\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Viacheslav_Ivanov\.android\build-cache\f855ea2ffdf6ec4dafe5e31a0d64ffeedde54547\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Projects\Drinkometer\app\build\intermediates\pre-dexed\debug\classes_d83a30d953968795de9c71ed71c210586c41fc5a.jar" />
+    </item>
+
+</items>
